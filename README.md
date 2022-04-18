@@ -58,18 +58,6 @@
 * “In the deceptively modest volume you are now holding, von Neumann articulates his model of computation and goes on to define the essential equivalence of the human brain and a computer. He acknowledges the apparently deep structural differences, but by applying Turing’s principle of the equivalence of all computation, von Neumann envisions a strategy to understand the brain’s methods as computation, to re-create those methods, and ultimately to expand its powers.”
 ― John von Neumann, The Computer and the Brain: Abused City
 
-* “The very last stage of any memory hierarchy is necessarily the outside world—that is, the outside world as far as the machine is concerned, i.e. that part of it with which the machine can directly communicate, in other words, the input and the output organs of the machine. These are usually punched paper tapes or cards, and on the output side, of course, also printed paper.”
-― John von Neumann, The Computer and the Brain
-
-* “The linear size of a neuron varies widely from one nerve cell to the other, since some of these cells are contained in closely integrated large aggregates and have, therefore, very short axons, while others conduct pulses between rather remote parts of the body and may, therefore, have linear extensions comparable to those of the entire human body.”
-― John von Neumann, The Computer and the Brain
-
-* “Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code. ”
-― Edsger W. Dijkstra
-
-* “A code, which according to Turing's schema is supposed to make one machine behave as if it were another specific machine (which is supposed to make the former imitate the latter) must do the following things. It must contain, in terms that the machine will understand (and purposively obey), instructions (further detailed parts of the code) that will cause the machine to examine every order it gets and determine whether this order has the structure appropriate to an order of the second machine. It must then contain, in terms of the order system of the first machine, sufficient orders to make the machine cause the actions to be taken that the second machine would have taken under the influence of the order in question.”
-― John von Neumann, The Computer and the Brain
-
 * But biology and computer science - life and computation - are related. I am confident that at their interface great discoveries await those who seek them. 
 ― Leonard Adleman 
 
@@ -147,6 +135,18 @@
 
 * Programs should be written and polished until they acquire publication quality.
 ― Niklaus Wirth
+
+* “The very last stage of any memory hierarchy is necessarily the outside world—that is, the outside world as far as the machine is concerned, i.e. that part of it with which the machine can directly communicate, in other words, the input and the output organs of the machine. These are usually punched paper tapes or cards, and on the output side, of course, also printed paper.”
+― John von Neumann, The Computer and the Brain
+
+* “The linear size of a neuron varies widely from one nerve cell to the other, since some of these cells are contained in closely integrated large aggregates and have, therefore, very short axons, while others conduct pulses between rather remote parts of the body and may, therefore, have linear extensions comparable to those of the entire human body.”
+― John von Neumann, The Computer and the Brain
+
+* “Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code. ”
+― Edsger W. Dijkstra
+
+* “A code, which according to Turing's schema is supposed to make one machine behave as if it were another specific machine (which is supposed to make the former imitate the latter) must do the following things. It must contain, in terms that the machine will understand (and purposively obey), instructions (further detailed parts of the code) that will cause the machine to examine every order it gets and determine whether this order has the structure appropriate to an order of the second machine. It must then contain, in terms of the order system of the first machine, sufficient orders to make the machine cause the actions to be taken that the second machine would have taken under the influence of the order in question.”
+― John von Neumann, The Computer and the Brain
 
 * Another effective [debugging] technique is to explain your code to someone else. This will often cause you to explain the bug to yourself. Sometimes it takes no more than a few sentences, followed by an embarrassed "Never mind, I see what's wrong. Sorry to bother you." This works remarkably well; you can even use non-programmers as listeners. One university computer center kept a teddy bear near the help desk. Students with mysterious bugs were required to explain them to the bear before they could speak to a human counselor.
 ― Brian Kernighan
